@@ -1,50 +1,65 @@
 
 
+# ![Cover](https://github.com/ayaxor/Quiet-wire_-English-_Learning_platform/raw/main/file_000000000e9c722f850cd94685fe00aa.png)
 
--
+# 🌟 Arabic Language Learning Platform — QuietWire AI Training Program
 
-
-
+This Arabic-learning platform was created by **Eng. Aya Jamal** as part of the **QuietWire AI Training Program**, designed to help non-Arabic speakers learn clear, modern Arabic through structured lessons.
 
 ---
 
-![Banner](file_000000001f90720aafd466b604d2aa7d.png)
-
-# 🌟 QuietWire AI — Arabic Mastery Program  
-### **Arabic Language Learning Platform | Powered by QuietWire AI**
-
-A premium, structured Arabic-learning program designed for international learners, engineers, professionals, and AI trainees.  
-This platform represents a high-quality educational project built under **QuietWire AI Training Program**, delivering a professional pathway to master the Arabic language from Level 1 to Level 5.
+## 🔗 Official Company Link  
+https://www.quietwire.ai/
 
 ---
 
 ## 📘 About This Project
-
-The **Arabic Mastery Program** is designed to teach Arabic to non-native speakers through a clear, modern, and structured curriculum.  
-Each level includes:
-
-- Complete lessons written in Arabic  
-- Full English explanations for international learners  
-- Grammar, vocabulary, reading practice  
-- Stories designed to improve comprehension  
-- Exercises to measure progress  
-- Professionally designed book covers (Made by Eng. Aya Jamal)
-
-This repository aims to provide a *global-standard Arabic learning system* that helps anyone—beginners to advanced—achieve real fluency.
+A full Arabic-learning curriculum from **Beginner → Advanced**, including English translations, grammar notes, pronunciation guides, and practical exercises.
 
 ---
 
-## 🏢 QuietWire AI — Official Link  
-🔗 **https://www.quietwire.ai/**  
+# 🧩 Included Levels
 
-This project is proudly developed as part of **QuietWire AI’s professional training environment**, combining linguistic excellence and smart educational design.
+### ✔️ Level 1 — Beginner  
+### ✔️ Level 2 — Elementary  
+### ✔️ Level 3 — Pre-Intermediate  
+### ✔️ Level 4 — Intermediate  
+### ✔️ Level 5 — Advanced  
 
 ---
 
-## 🔥 Key Highlights
+# 📚 Repository Structure
 
-✔ Complete Arabic learning curriculum (Levels 1 → 5)  
-✔ Clean bilingual design (Arabic + English)  
-✔ Professional teaching structure similar to international institutes  
-✔ Story-based learning boosts comprehension  
-✔ Grammar books, vocabulary lists, and reading activities
+📁 Level 1 Beginner
+📁 Level 2 Elementary
+📁 Level 3 Pre-Intermediate
+📁 Level 4 Intermediate
+📁 Level 5 Advanced
+📁 Stories
+📁 Grammar
+📄 README.md
+
+---
+
+# 📥 Download PDF Books  
+(Links will be added after uploading the PDF files)
+
+---
+
+# 🌈 Key Features
+
+✨ Arabic + English  
+✨ Grammar + Vocabulary + Stories  
+✨ Clean, professional QuietWire structure  
+✨ Perfect for non-Arabic speakers  
+✨ Built under QuietWire AI Training Program  
+
+---
+
+# 🙌 Credits
+
+Created by **Eng. Aya Jamal**  
+Under **QuietWire AI Training Program**  
+Assisted by **Aletheia (AI Teammate)** 🤖✨
+
+
