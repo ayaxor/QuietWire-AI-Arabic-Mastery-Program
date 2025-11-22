@@ -1,6 +1,6 @@
 
 
-📄 1. CODE_OF_CONDUCT.md (English)
+
 
 # Code of Conduct – Arabic Mastery Program
 This project aims to provide a clear, structured, and respectful learning experience for all users who wish to learn the Arabic language.
