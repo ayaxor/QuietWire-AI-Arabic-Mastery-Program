@@ -33,3 +33,6 @@
 **البرنامج:** QuietWire AI Training Program
 
 
+📧 البريد الرسمي للتواصل: aya@quietwire.ai
+
+
