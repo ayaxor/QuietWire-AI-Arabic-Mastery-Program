@@ -2,6 +2,8 @@
 
 
 
+
+
 # Code of Conduct – Arabic Mastery Program
 This project aims to provide a clear, structured, and respectful learning experience for all users who wish to learn the Arabic language.
 
@@ -34,7 +36,7 @@ If you notice inappropriate behavior, inaccurate content, or technical issues, p
 **Maintained by:** Eng. Aya Jamal  
 **Program:** QuietWire AI Training Program
 
+📧 Official Contact: aya@quietwire.ai
 
----
 
 
