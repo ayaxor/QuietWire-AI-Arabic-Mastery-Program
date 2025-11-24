@@ -27,3 +27,5 @@ Only upload:
 
 Executable files (.exe, .sh, .bat) are NOT allowed.
 
+
+📧 Official Contact: aya@quietwire.ai
