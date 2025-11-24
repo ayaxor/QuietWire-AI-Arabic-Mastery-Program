@@ -15,3 +15,5 @@ Responses may take 24–48 hours.
 
 **Maintainer:** Eng. Aya Jamal
 
+
+📧 Official Contact: aya@quietwire.ai
